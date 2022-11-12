@@ -1,25 +1,21 @@
-<h1 align="center">Welcome 👋, I'm Adam</h1>
+<h1 align="center">Welcome, I'm KaiDamu 👋</h1>
 <h3 align="center">A curious backend developer from Hungary</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidamu&label=Profile%20views&color=0e75b6&style=flat" alt="kaidamu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaidamu" alt="kaidamu" /></a> </p>
 
 - 🔭 I’m currently working on **GIPDB, a custom database for Genshin Impact**
 
-- 🌱 I’m currently learning **Everything which becomes relevant**
+- 🌱 I’m currently learning **everything what becomes relevant**
 
-- 👯 I’m looking to collaborate on **Any project which helps humanity**
+- 👯 I’m looking to collaborate on **any project what helps humanity**
 
 - 👨‍💻 All of my projects are available at [[portfolio site TBD]]([portfolio site TBD])
 
-- 💬 Ask me about **Low level optimizations**
+- 💬 Ask me about **low level optimizations, and what is life**
 
 - 📫 How to reach me **[email TBD]**
 
 - 📄 Know about my experiences [[resume TBD]]([resume TBD])
 
-- ⚡ Fun fact **I always wanted to be a programmer**
+- ⚡ Fun fact: **I always wanted to be a programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,8 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/[tbd]"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="[tbd]" /></a><a href="https://ko-fi.com/[tbd]"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="[tbd]" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaidamu&show_icons=true&locale=en&layout=compact" alt="kaidamu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaidamu&show_icons=true&locale=en" alt="kaidamu" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidamu&label=Profile%20views&color=0e75b6&style=flat" alt="kaidamu" /> </p>
