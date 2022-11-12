@@ -1,19 +1,19 @@
 <h1 align="center">Welcome, I'm KaiDamu 👋</h1>
 <h3 align="center">A curious backend developer from Hungary</h3>
 
-- 🔭 I’m currently working on **GIPDB, a custom database for Genshin Impact**
+- 🔭 I’m currently working on **GIPDB, an efficient custom database for Genshin Impact**
 
 - 🌱 I’m currently learning **everything what becomes relevant**
 
 - 👯 I’m looking to collaborate on **any project what helps humanity**
 
-- 👨‍💻 All of my projects are available at [[portfolio site TBD]]([portfolio site TBD])
+- 👨‍💻 My portfolio is available at [[portfolio site TBD]]([portfolio site TBD])
 
 - 💬 Ask me about **low level optimizations, and what is life**
 
-- 📫 How to reach me **[email TBD]**
+- 📫 Reach me here: **[email TBD]**
 
-- 📄 Know about my experiences [[resume TBD]]([resume TBD])
+- 📄 My resume is available at [[resume TBD]]([resume TBD])
 
 - ⚡ Fun fact: **I always wanted to be a programmer**
 
