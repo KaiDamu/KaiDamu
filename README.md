@@ -43,3 +43,5 @@ I'm a **backend developer** and part-time **gamer**, while **programming since 2
 - Fun fact: **Github promotes open-source, while being closed-source itself**
 
 <img src="https://komarev.com/ghpvc/?username=kaidamu&label=Profile%20views&color=0e75b6&style=flat">
+
+<img src="https://media.tenor.com/_G85yMqj3zQAAAAi/rolling-cat-cat-rolling.gif">
