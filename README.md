@@ -30,7 +30,7 @@
 - My resume: *TBD*
 
 ### Contact me
-- E-Mail: *TBD*
+- E-Mail: **kaidamumail@gmail.com**
 - Discord: **KaiDamu#2545**
 
 <img src="https://komarev.com/ghpvc/?username=kaidamu&label=Profile%20views&color=0e75b6&style=flat">
