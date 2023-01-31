@@ -31,7 +31,7 @@
 
 ### Contact me
 - E-Mail: **kaidamumail@gmail.com**
-- Discord: **KaiDamu#2545**
+- Discord: **KaiDamu#0001**
 
 <img src="https://komarev.com/ghpvc/?username=kaidamu&label=Profile%20views&color=0e75b6&style=flat">
 
