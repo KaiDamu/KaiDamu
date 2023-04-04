@@ -2,19 +2,23 @@
 
 ### Experience
 - Formal education: **for 5 years**
-- Self-taught: **for 7 years**
+- Self-taught: **for 8 years**
 - Project count: **100+ projects**
 
 ### Languages
-- **100.000+ lines**
-  - C / C++
-- **1.000+ lines**
+- **50.000+ lines**
+  - C
+  - C++
+- **5.000+ lines**
   - Python
-  - Java
-  - C#
+  - JavaScript
   - HTML
   - CSS
-  - JavaScript
+- **1.000+ lines**
+  - C#
+  - SQL
+  - PHP
+  - Java
 
 ### Featured work-in-progress project
 > - **GIPDB** (*Genshin Impact Profile Database*)
@@ -26,7 +30,7 @@
 > Estimated impact: Improving the experience of **1.000.000+ users**
 
 ### Documents
-- My portfolio: *TBD*
+- My portfolio: https://kaidamu.github.io/
 - My resume: *TBD*
 
 ### Contact me
