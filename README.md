@@ -28,6 +28,7 @@
 > Languages used: **C**, **C++**, **Python**
 >
 > Estimated impact: Improving the experience of **1.000.000+ users**
+> In collaboration with [Enka Network](https://enka.network/)
 
 ### Documents
 - My portfolio: https://kaidamu.github.io/
